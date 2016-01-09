@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-*.o
-*.out
-/demos
-=======
 # Compiled Object files
 *.slo
 *.lo
@@ -31,4 +26,3 @@
 *.exe
 *.out
 *.app
->>>>>>> bd0a5e57784ebdf956b3af169669b3b635558a82
